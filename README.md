@@ -8,7 +8,7 @@ I am a developer focused on building intelligent systems
 
 ## 🛠️ Technical Arsenal
 
-* **Languages:** Python, MySQL
+* **Language:** Python
 * **Agentic AI & LLMs:** LangGraph, Multi-Agent Orchestration, ReAct Architecture, Human-in-the-Loop (HITL) Workflows
 * **Machine Learning & Data Science:** Scikit-Learn, Pandas, NumPy
 
