@@ -1,8 +1,6 @@
 # Hi, I'm Navanil 👋
 **Computer Science & Engineering Undergrad at IIT Bhilai**
 
-I’m interested in core machine learning pipelines, algorithmic efficiency, and building interactive, data-driven systems. I prefer deep-diving into the mathematical mechanics behind models rather than treating them as black boxes.
-
 ---
 
 ## 🛠️ Technical Stack & Frameworks
@@ -12,7 +10,7 @@ I’m interested in core machine learning pipelines, algorithmic efficiency, and
 * **Core Competencies:** 
   * Automated Pipeline Engineering (`ColumnTransformer`)
   * Data Preprocessing & Distribution Tuning (`PowerTransformer`)
-  * Robust Model Validation (K-Fold Cross-Validation)
+  * Model Validation (K-Fold Cross-Validation)
   * Probabilistic Evaluation (`predict_proba`) & Binary Serialization (`Pickle`)
 
 ---
