@@ -35,8 +35,9 @@ I am a developer focused on building intelligent systems.
 
 
 <div align="center">
-  <img src="https://github-readme-stats-three-rho-44.vercel.app/api?username=navanilghosh440&theme=radical&show_icons=true&hide_border=false&count_private=true" height="195" alt="stats graph" />
-  <img src="https://github-readme-stats-three-rho-44.vercel.app/api/top-langs/?username=navanilghosh440&theme=radical&layout=compact&hide_border=false&langs_count=5" height="195" alt="languages graph" />
+  <img align="top" src="https://github-readme-stats-three-rho-44.vercel.app/api?username=navanilghosh440&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="stats graph" />
+  &nbsp;&nbsp;&nbsp;
+  <img align="top" src="https://github-readme-stats-three-rho-44.vercel.app/api/top-langs/?username=navanilghosh440&theme=radical&layout=compact&hide_border=false&langs_count=5" alt="languages graph" />
 </div>
 
 ---
