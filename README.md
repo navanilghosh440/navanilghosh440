@@ -43,4 +43,4 @@ I am a developer focused on building intelligent systems.
 ---
 
 ## 📬 Connect with Me
-* **LinkedIn:** [Navanil Ghosh](https://www.linkedin.com/in/navanil-ghosh-8965583a1/)
+* **LinkedIn:** [Navanil Ghosh]([https://www.linkedin.com/in/navanil-ghosh-8965583a1/](https://www.linkedin.com/in/navanil-ghosh/))
