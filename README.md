@@ -34,9 +34,9 @@ I am a developer focused on building intelligent systems.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-r1add4jv6-navanil-ghosh.vercel.app/api?username=navanilghosh440&theme=radical&show_icons=true&count_private=true" alt="stats graph" />
+  <img src="https://github-readme-stats-k0503cdmm-navanil-ghosh.vercel.app/api?username=navanilghosh440&theme=radical&show_icons=true&count_private=true" alt="stats graph" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-r1add4jv6-navanil-ghosh.vercel.app/api/top-langs/?username=navanilghosh440&theme=radical&layout=compact" alt="languages graph" />
+  <img src="https://github-readme-stats-k0503cdmm-navanil-ghosh.vercel.app/api/top-langs/?username=navanilghosh440&theme=radical&layout=compact" alt="languages graph" />
 </div>
 ---
 
