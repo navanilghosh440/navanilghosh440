@@ -13,7 +13,7 @@ I am a developer focused on building intelligent systems.
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Agentic AI & Orchestration**
+**Agentic AI**
 <br>
 ![LangGraph](https://img.shields.io/badge/LangGraph-3776AB?style=for-the-badge&logo=openai&logoColor=white)
 ![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent_Orchestration-FF9900?style=for-the-badge)
