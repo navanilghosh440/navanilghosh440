@@ -1,0 +1,25 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # Runs every 6 hours automatically
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Force update README or trigger cache refresh
+        run: |
+          # This touches or updates a timestamp to keep your workflow active
+          date >> .github/timestamp.txt
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "Automated stats refresh: $(date)" || exit 0
+          git push
